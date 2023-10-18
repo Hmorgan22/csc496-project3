@@ -6,7 +6,9 @@ const IndexPage = () => {
     <section>
       <div>
       <Navbar />
-      <h1>Home</h1>
+      <h1>Kourtney Morgan Photography</h1>
+      <p>
+      </p>
       </div>
     </section>
   )

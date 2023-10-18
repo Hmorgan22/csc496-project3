@@ -6,7 +6,7 @@ const IndexPage = () => {
     <section>
       <div>
       <Navbar />
-      <h1>Home</h1>
+      <h1>Gallery</h1>
       </div>
     </section>
   )
@@ -14,4 +14,4 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => <title>Gallery</title>

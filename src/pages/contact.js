@@ -1,6 +1,9 @@
 import * as React from "react"
 import Navbar from "../components/Navbar"
 import ClearInputForm from '../components/ClearInputForm';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 
 
